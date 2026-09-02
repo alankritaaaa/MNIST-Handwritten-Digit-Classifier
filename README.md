@@ -1,7 +1,7 @@
 # MNIST Handwritten Digit Classifier (CNN)
 
-A convolutional neural network trained on the real, full MNIST dataset —
-60,000 training images and 10,000 test images of handwritten digits (0-9) —
+A convolutional neural network trained on the real, full MNIST dataset-
+60,000 training images and 10,000 test images of handwritten digits (0-9),
 built to demonstrate CNN fundamentals: convolution, pooling, batch
 normalization, dropout, and the Adam optimizer.
 
